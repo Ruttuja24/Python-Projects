@@ -1,3 +1,3 @@
-# Python-Projects
+# Python Project - Email Spam Detection
 This is a Spam Email Detection and Filtering Project using Machine Learning. I have used six algorithms which are: Naive Bayes, SVM (Support Vector Machines), Random Forest, ANN (Artificial Neural Network), Decision Tree and XGBoost and performed a comparitive analysis to show which of them works the best to detect a spam email. I have used  Count Vectorization and TF-IDF for Feature Extraction.
 I have made use of various data visualizations in order to provide an EDA (Exploratory Data Analysis) along with Hyper parameter tunning and cross validation to increase model detection efficiency.
